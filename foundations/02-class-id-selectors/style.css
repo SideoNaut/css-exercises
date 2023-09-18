@@ -8,12 +8,11 @@ font-family: Verdana, DejaVu Sans, sans-serif;
     font-size: 36px;
 }
 
-#third {
+.font-changer {
     font-size: 24px;
 }
 
 #fourth {
     background-color: lightgreen;
-    font-size: 24px;
     font-weight: bold;
 }
